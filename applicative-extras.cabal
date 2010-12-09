@@ -15,3 +15,5 @@ Exposed-Modules:   Control.Applicative.Compose
                  , Control.Applicative.Backwards
 Build-Type:      Simple
 Build-Depends:   base >= 3 && < 5, haskell98, mtl
+Extensions: TypeSynonymInstances
+
